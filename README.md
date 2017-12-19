@@ -34,8 +34,8 @@ Template code is provided in the notebook `student_intervention.ipynb` notebook 
 
 In a terminal or command window, navigate to the top-level project directory `student_intervention/` (that contains this README) and run one of the following commands:
 
-```ipython notebook student_intervention.ipynb```  
-```jupyter notebook student_intervention.ipynb```
+```ipython notebook student_intervention_PT.ipynb```
+```jupyter notebook student_intervention_PT.ipynb```
 
 This will open the iPython Notebook software and project file in your browser.
 
