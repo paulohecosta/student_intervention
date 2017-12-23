@@ -8,7 +8,7 @@ Este repositório foi criado para enviar o projeto desenvolvido durante o nanode
 
 São de autoria do Aluno apenas as questões respondidas e os seguintes arquivos.
 
-XXXX
+report.html
 
 Os arquivos restantes são de autoria da Udacity e foram fornecidos para o cumprimento da entrega do projeto citado no título.
 
